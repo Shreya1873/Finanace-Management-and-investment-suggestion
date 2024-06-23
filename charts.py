@@ -20,7 +20,7 @@ def bar(bargraph):
 
 
 
-
+#piechart
 def pie(piegraph):
     colors = ['orange', 'lightcoral', 'turquoise','pink','gold', 'thistle', 'palegreen', 'moccasin', 'darkkhaki']
     fig = plt.figure(figsize=(5, 5))
