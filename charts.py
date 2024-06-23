@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+#barchart
 def bar(bargraph):
     
     xtitle = "Category"
