@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 def bar(bargraph):
-    #bar graph
+    
     xtitle = "Category"
     ytitle = "Expense"
     fig = plt.figure(figsize=(5, 5))
